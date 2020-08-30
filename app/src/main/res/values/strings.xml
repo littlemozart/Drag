@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Drag</string>
+    <string name="my_followed">我的关注</string>
+    <string name="drag_to_order">(按住拖动调整顺序)</string>
+    <string name="description">以上在首页展示</string>
+
+    <string name="menu_edit">编辑</string>
+    <string name="menu_done">完成</string>
+</resources>
